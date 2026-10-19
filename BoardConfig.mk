@@ -144,7 +144,7 @@ BOARD_USES_METADATA_PARTITION := true
 
 # TWRP specific build flags
 TW_THEME := portrait_hdpi
-TW_DEVICE_VERSION := 0_archer
+TW_DEVICE_VERSION := 0_KaiZenX
 TW_FRAMERATE := 120
 TW_DEFAULT_BRIGHTNESS := 500
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel0-backlight/brightness"
